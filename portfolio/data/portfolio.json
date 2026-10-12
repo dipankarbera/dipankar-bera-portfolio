@@ -1,0 +1,168 @@
+{
+  "skills": {
+    "subjects": [
+      "DSA",
+      "OOP",
+      "DBMS",
+      "Digital Electronics",
+      "Artificial Intelligence & Machine Learning",
+      "OS Concepts"
+    ],
+    "core": [
+      "Python",
+      "SQL",
+      "Java",
+      "C",
+      "MATLAB"
+    ],
+    "cyber": [
+      "Network Security",
+      "Threat Detection",
+      "Anomaly Detection",
+      "Ethereum Analytics",
+      "Smart Contract Audit"
+    ],
+    "ml": [
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "Matplotlib",
+      "Seaborn"
+    ],
+    "data": [
+      "Power BI",
+      "Tableau"
+    ],
+    "platforms": [
+      "VS Code",
+      "Jupyter",
+      "Git",
+      "GitHub"
+    ]
+  },
+  "projects": [
+    {
+      "title": "Ethereum Blockchain Fraud Wallet Detection",
+      "domain": "Blockchain Analytics & Fraud Detection",
+      "period": "Sept 2026 – Present",
+      "status": "Active prototype",
+      "description": "Hybrid fraud detection model combining Random Forest, Isolation Forest, and rule-based risk scoring. Engineered wallet-level transaction graphs, features, and statistical profiling to build a leakage-free prediction pipeline.",
+      "stack": [
+        "Python",
+        "Scikit-Learn",
+        "Web3 Data",
+        "Anomaly Detection"
+      ],
+      "demo": "https://blockchain-lime-one.vercel.app/",
+      "link": "#",
+      "cat": "blockchain"
+    },
+    {
+      "title": "Noise-Aware Adaptive n-Qubit Teleportation",
+      "domain": "Quantum Computing & ML",
+      "period": "Oct 2026 – Present",
+      "status": "Active research",
+      "description": "Developing reinforcement learning algorithms for dynamic circuit adaptation in noisy quantum computing environments. Implements post-selection error mitigation to preserve high-fidelity state transmission across unreliable channels.",
+      "stack": [
+        "Qiskit",
+        "Python",
+        "Reinforcement Learning",
+        "Error Mitigation"
+      ],
+      "link": "#",
+      "cat": "quantum"
+    },
+    {
+      "title": "Crop Sage: ML-Based Crop Prediction",
+      "domain": "ML & Smart Agriculture",
+      "period": "June 2026 – July 2026",
+      "status": "Completed prototype",
+      "description": "Supervised learning engine predicting ideal agricultural crops based on regional soil chemistry, humidity, rainfall, and thermal variations. Built and trained during the IEDC Lab at UEM Kolkata.",
+      "stack": [
+        "Python",
+        "Supervised ML",
+        "Pandas",
+        "Data Visualization"
+      ],
+      "demo": "https://techtitansofficial2025.github.io/crop-sage-/",
+      "link": "#",
+      "cat": "ml"
+    },
+    {
+      "title": "SWaT Digital Twin & Industrial Anomaly Detection",
+      "domain": "Industrial Cybersecurity",
+      "period": "Research pipeline",
+      "status": "Research pipeline",
+      "description": "Analyzed SWaT operational telemetry across water-purification testbeds. Deployed process-aware anomaly detection to guarantee within-event anomaly detection for critical physical plant safeguards.",
+      "stack": [
+        "Python",
+        "Explainable AI",
+        "Digital Twin"
+      ],
+      "link": "#",
+      "cat": "industrial"
+    }
+  ],
+  "honors": [
+    {
+      "tag": "Dept Topper",
+      "title": "Department Academic Rank 1",
+      "text": "Ranked 1st across CST, CSIT, CSE (Cybersecurity), and CSE (Networks) departments during 1st and 2nd academic years at IEM–UEM."
+    },
+    {
+      "tag": "Poster Session",
+      "title": "\"The Rise of Post-Quantum Security\"",
+      "text": "Awarded 2nd position in the departmental research poster competition, dissecting post-quantum cryptographic vulnerabilities and defense strategies."
+    }
+  ],
+  "experience": {
+    "role": "Research Intern",
+    "org": "IEDC Lab, UEM Kolkata",
+    "period": "Dec 2025 – Jan 2026",
+    "text": "Machine Learning Research Intern. Spearheaded predictive data pipeline for Crop Sage under faculty supervision. Evaluated multiclass algorithms to preserve model robustness under noisy real-world measurements."
+  },
+  "certs": [
+    {
+      "title": "Global Immersion Program: CyberSecurity & Data Analytics Bootcamp",
+      "meta": "Asian Institute of Technology, Thailand · July 2026"
+    },
+    {
+      "title": "Python Programming Fundamentals",
+      "meta": "Microsoft · July 2026"
+    },
+    {
+      "title": "Cyber Security Fundamentals",
+      "meta": "University of London · Oct 2026"
+    },
+    {
+      "title": "Tableau 2024.1 Essential Training",
+      "meta": "Data Visualization · March 2026"
+    }
+  ],
+  "leadership": [
+    {
+      "label": "Present",
+      "title": "Secretary",
+      "text": "IEEE Computer Society, UEM Kolkata"
+    },
+    {
+      "label": "Former",
+      "title": "Secretary",
+      "text": "GGSC, UEM Kolkata"
+    }
+  ],
+  "repos": [
+    {
+      "name": "eth-fraud-wallet-detector",
+      "lang": "Python",
+      "text": "Hybrid ML pipeline for flagging fraudulent Ethereum wallets.",
+      "url": "#"
+    },
+    {
+      "name": "q-teleport-noise-mitigation",
+      "lang": "Python",
+      "text": "Adaptive n-qubit teleportation under noisy channels.",
+      "url": "#"
+    }
+  ]
+}
